@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Jlogger.Console\obj\Debug\netcoreapp2.1\Jlogger.Console.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Jlogger.Console\obj\Debug\netcoreapp2.1\Jlogger.Console.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Jlogger.Console\obj\Debug\netcoreapp2.1\Jlogger.Console.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Jlogger.Console\obj\Debug\netcoreapp2.1\Jlogger.Console.AssemblyInfo.cs
+C:\Users\HP\source\repos\Jlogger.Console\bin\Debug\netcoreapp2.1\Jlogger.Console.deps.json
+C:\Users\HP\source\repos\Jlogger.Console\bin\Debug\netcoreapp2.1\Jlogger.Console.runtimeconfig.json
+C:\Users\HP\source\repos\Jlogger.Console\bin\Debug\netcoreapp2.1\Jlogger.Console.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Jlogger.Console\bin\Debug\netcoreapp2.1\Jlogger.Console.dll
+C:\Users\HP\source\repos\Jlogger.Console\bin\Debug\netcoreapp2.1\Jlogger.Console.pdb
+C:\Users\HP\source\repos\Jlogger.Console\bin\Debug\netcoreapp2.1\JLogger.CrossPlatform.dll
+C:\Users\HP\source\repos\Jlogger.Console\bin\Debug\netcoreapp2.1\JLogger.CrossPlatform.pdb
+C:\Users\HP\source\repos\Jlogger.Console\obj\Debug\netcoreapp2.1\Jlogger.Console.csproj.CopyComplete
+C:\Users\HP\source\repos\Jlogger.Console\obj\Debug\netcoreapp2.1\Jlogger.Console.dll
+C:\Users\HP\source\repos\Jlogger.Console\obj\Debug\netcoreapp2.1\Jlogger.Console.pdb
+C:\Users\HP\source\repos\Jlogger.Console\bin\Debug\netcoreapp2.1\appsettings.json
