@@ -3658,11 +3658,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Jlogger.Console\\Jlogger.Console.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\JerkLoggerV2\\Jlogger.Console\\Jlogger.Console.csproj",
       "projectName": "Jlogger.Console",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\Jlogger.Console\\Jlogger.Console.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\JerkLoggerV2\\Jlogger.Console\\Jlogger.Console.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\Jlogger.Console\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\JerkLoggerV2\\Jlogger.Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3681,8 +3681,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\HP\\source\\repos\\JLogger.CrossPlatform\\JLogger.CrossPlatform.csproj": {
-              "projectPath": "C:\\Users\\HP\\source\\repos\\JLogger.CrossPlatform\\JLogger.CrossPlatform.csproj"
+            "C:\\Users\\HP\\source\\repos\\JerkLoggerV2\\JLogger.CrossPlatform\\JLogger.CrossPlatform.csproj": {
+              "projectPath": "C:\\Users\\HP\\source\\repos\\JerkLoggerV2\\JLogger.CrossPlatform\\JLogger.CrossPlatform.csproj"
             }
           }
         }

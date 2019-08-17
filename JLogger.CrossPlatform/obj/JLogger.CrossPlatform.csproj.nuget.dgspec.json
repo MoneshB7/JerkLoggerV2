@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\JLogger.CrossPlatform\\JLogger.CrossPlatform.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\JerkLoggerV2\\JLogger.CrossPlatform\\JLogger.CrossPlatform.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\JLogger.CrossPlatform\\JLogger.CrossPlatform.csproj": {
+    "C:\\Users\\HP\\source\\repos\\JerkLoggerV2\\JLogger.CrossPlatform\\JLogger.CrossPlatform.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\JLogger.CrossPlatform\\JLogger.CrossPlatform.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\JerkLoggerV2\\JLogger.CrossPlatform\\JLogger.CrossPlatform.csproj",
         "projectName": "JLogger.CrossPlatform",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\JLogger.CrossPlatform\\JLogger.CrossPlatform.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\JerkLoggerV2\\JLogger.CrossPlatform\\JLogger.CrossPlatform.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\JLogger.CrossPlatform\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\JerkLoggerV2\\JLogger.CrossPlatform\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

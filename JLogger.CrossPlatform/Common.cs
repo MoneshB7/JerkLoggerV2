@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using JLogger.CrossPlatform.Models;
 using System.Linq;
+using System.Data;
 
 namespace JLogger.CrossPlatform
 {
@@ -21,7 +22,7 @@ namespace JLogger.CrossPlatform
         }
 
 
-        //Get total count the user did it
+        //Get Total Count the User Did it
         public int GetTotalCount()
         {
 
@@ -38,7 +39,7 @@ namespace JLogger.CrossPlatform
             return totalCount;
         }
 
-        //Number of times a user did it on a given date 
+        //Number of Times a User Did *insert a habit you wanna track here* on a Given Date 
 
         public int GetTotalCountByDate(DateTime date)
         {
@@ -76,7 +77,7 @@ namespace JLogger.CrossPlatform
             return status;
         }
 
-        //Modify the count based on the date
+        //Modify the Count Based on the Date
         public int ModifyJerkCount(DateTime jdate,int jtimes)
         {
             try
@@ -98,7 +99,7 @@ namespace JLogger.CrossPlatform
             return status;
         }
 
-        //Modify the reason based on the date
+        //Modify the Reason Based on the Date
         public int ModifyJerkReason(DateTime jdate, string jreasontxt)
         {
             try
@@ -121,7 +122,7 @@ namespace JLogger.CrossPlatform
             return status;
         }
 
-        //Delete particular row based on date
+        //Delete Particular Entry Based on Date
         public int DeleteJerk(DateTime jdate)
         {
             try
@@ -144,6 +145,7 @@ namespace JLogger.CrossPlatform
             return status;
         }
 
+       
 
     }
 }
